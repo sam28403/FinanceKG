@@ -1,0 +1,16 @@
+"~start_node_id","~start_node_labels","~start_node_property_headquarters","~start_node_property_code","~start_node_property_name","~start_node_property_founded","~relationship_type","~end_node_id","~end_node_labels","~end_node_property_name","~start_node_property_role","~end_node_property_headquarters","~end_node_property_code","~end_node_property_founded","~end_node_property_market","~end_node_property_symbol","~relationship_property_percentage"
+"4:51c7ceba-3710-4df4-b3b2-6b24d28682e1:0","Company","杭州","BABA","阿里巴巴集团","1999年","HEADQUARTERED_IN","4:51c7ceba-3710-4df4-b3b2-6b24d28682e1:6","Location","中国杭州",,,,,,,
+"4:51c7ceba-3710-4df4-b3b2-6b24d28682e1:3","Person",,,"马云",,"FOUNDED","4:51c7ceba-3710-4df4-b3b2-6b24d28682e1:0","Company","阿里巴巴集团","创始人","杭州","BABA","1999年",,,
+"4:51c7ceba-3710-4df4-b3b2-6b24d28682e1:0","Company","杭州","BABA","阿里巴巴集团","1999年","BELONGS_TO","4:51c7ceba-3710-4df4-b3b2-6b24d28682e1:1","Industry","互联网",,,,,,,
+"4:51c7ceba-3710-4df4-b3b2-6b24d28682e1:0","Company","杭州","BABA","阿里巴巴集团","1999年","HAS_STOCK","4:51c7ceba-3710-4df4-b3b2-6b24d28682e1:5","Stock",,,,,,"NYSE","BABA.US",
+"4:51c7ceba-3710-4df4-b3b2-6b24d28682e1:4","Person",,,"张勇",,"LEADS","4:51c7ceba-3710-4df4-b3b2-6b24d28682e1:0","Company","阿里巴巴集团","董事会主席","杭州","BABA","1999年",,,
+"4:51c7ceba-3710-4df4-b3b2-6b24d28682e1:0","Company","杭州","BABA","阿里巴巴集团","1999年","OWNS","4:51c7ceba-3710-4df4-b3b2-6b24d28682e1:7","Company","蚂蚁集团",,,,,,,"33%"
+"4:51c7ceba-3710-4df4-b3b2-6b24d28682e1:0","Company","杭州","BABA","阿里巴巴集团","1999年","BELONGS_TO","4:51c7ceba-3710-4df4-b3b2-6b24d28682e1:2","Industry","电子商务",,,,,,,
+"4:51c7ceba-3710-4df4-b3b2-6b24d28682e1:0","Company","杭州","BABA","阿里巴巴集团","1999年","OWNS","4:51c7ceba-3710-4df4-b3b2-6b24d28682e1:8","Company","菜鸟网络",,,,,,,"63%"
+"4:51c7ceba-3710-4df4-b3b2-6b24d28682e1:14","Company",,,"美团",,"BELONGS_TO","4:51c7ceba-3710-4df4-b3b2-6b24d28682e1:1","Industry","互联网",,,,,,,
+"4:51c7ceba-3710-4df4-b3b2-6b24d28682e1:15","Company",,,"字节跳动",,"BELONGS_TO","4:51c7ceba-3710-4df4-b3b2-6b24d28682e1:1","Industry","互联网",,,,,,,
+"4:51c7ceba-3710-4df4-b3b2-6b24d28682e1:12","Company",,,"拼多多",,"BELONGS_TO","4:51c7ceba-3710-4df4-b3b2-6b24d28682e1:2","Industry","电子商务",,,,,,,
+"4:51c7ceba-3710-4df4-b3b2-6b24d28682e1:13","Company",,,"京东",,"BELONGS_TO","4:51c7ceba-3710-4df4-b3b2-6b24d28682e1:2","Industry","电子商务",,,,,,,
+"4:51c7ceba-3710-4df4-b3b2-6b24d28682e1:9","Company",,,"浙江吉利控股集团",,"HEADQUARTERED_IN","4:51c7ceba-3710-4df4-b3b2-6b24d28682e1:6","Location","中国杭州",,,,,,,
+"4:51c7ceba-3710-4df4-b3b2-6b24d28682e1:10","Company",,,"DeepSeek",,"HEADQUARTERED_IN","4:51c7ceba-3710-4df4-b3b2-6b24d28682e1:6","Location","中国杭州",,,,,,,
+"4:51c7ceba-3710-4df4-b3b2-6b24d28682e1:11","Company",,,"宇树科技",,"HEADQUARTERED_IN","4:51c7ceba-3710-4df4-b3b2-6b24d28682e1:6","Location","中国杭州",,,,,,,
