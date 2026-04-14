@@ -1,5 +1,7 @@
 # 金融知识图谱
 
+![Screenshot](Screenshot.png)
+
 ## 创建Google API Key
 
 前往Google AI Studio，生成自己的API Key。将其复制到记事本中，格式如下：
